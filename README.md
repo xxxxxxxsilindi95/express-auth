@@ -1,2 +1,2 @@
 # express-auth
-Cork admin theme basic express auth
+geliştirilmeye açık olan bir auth sistemi
